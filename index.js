@@ -1,5 +1,5 @@
 // Code your solution in this file!
-function distanceFromHqInBlocks(){
+function distanceFromHqInBlocks(block){
 
 }
 
@@ -12,5 +12,5 @@ function distanceTravelledInFeet() {
 }
 
 function calculatesFarePrice() {
-  
+
 }
