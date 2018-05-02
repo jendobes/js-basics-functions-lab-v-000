@@ -20,7 +20,7 @@ function calculatesFarePrice(startBlock, endBlock) {
     fare = 0
 
     case 400 < distance < 2000:
-    fare = (distance - 400)*.4
+    fare = (distance - 400)*.02
 
   }
   return fare
