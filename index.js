@@ -23,5 +23,5 @@ function calculatesFarePrice(startBlock, endBlock) {
     fare = (distance - 400)*.4
 
   }
-  return greetin
+  return fare
 }
