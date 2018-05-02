@@ -15,8 +15,8 @@ function distanceTravelledInFeet(startBlock, endBlock) {
 function calculatesFarePrice(startBlock, endBlock) {
   const distance = distanceTravelledInFeet(startBlock, endBlock)
   let greeting
-  switch (distance) {
-    
-  } 
+  switch (true) {
+    case
+  }
   return greetin
 }
