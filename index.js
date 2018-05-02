@@ -24,6 +24,7 @@ function calculatesFarePrice(startBlock, endBlock) {
 
     case distance > 2500:
     return fare = 'cannot travel that far'
+    break
 
     case distance > 2000:
     return fare = 25
